@@ -5,7 +5,7 @@ export default function Home() {
   return (
    <>
    <Navbar/>
-   <HeroSection/>
+   {/* <HeroSection/> */}
     {/* <Image  src='/img.jpg' width={50000} height={10} className='w-[100%] h-[100vh]'/> */}
    </>
   )
